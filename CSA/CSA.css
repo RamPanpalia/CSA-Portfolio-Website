@@ -29,6 +29,11 @@ body{
     color: white;
 }
 
+::selection {
+    color: white;
+    background: green;
+}
+
 .navbar{
     background-image: url(bgimage1.jpg);
     background-size: 100%;
